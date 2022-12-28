@@ -2,7 +2,7 @@
 
 I like ☕️ 🎨 🎮 🥊 🥋
 
-[jjcheng.me](jjcheng.me)
+[jjcheng.me](http://jjcheng.me)
 
 <!---
 jchengjr77/jchengjr77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
